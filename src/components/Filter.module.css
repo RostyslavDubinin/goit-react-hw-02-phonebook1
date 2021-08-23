@@ -1,0 +1,12 @@
+.filter {
+  border: 4px double black;
+  background: #fc3;
+  padding: 10px;
+  display: grid;
+  width: 285px;
+  text-align: center;
+}
+
+.input {
+  margin: 15px;
+}

@@ -1,0 +1,21 @@
+.form {
+  border: 4px double black;
+  background: #fc3;
+  padding: 10px;
+  display: flex;
+  width: 285px;
+  text-align: center;
+}
+
+.label {
+  display: table-caption;
+  text-align: center;
+}
+
+.input {
+  margin: 10px;
+}
+
+.button {
+  margin-left: 40px;
+}
